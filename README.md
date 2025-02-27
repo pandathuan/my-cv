@@ -2,21 +2,17 @@
 
 ## Summary
 
-I am a Vietnam-based PHP developer with several years’ commercial PHP experience in both eCommerce and CMS websites. I have a keen interest in data integration (using APIs and WebServices), and production of well formatted, readable and, maintainable code and dynamic, effective websites (using open standards, including CSS3, Bootstrap, jQuery and HTML5).
+I am a highly experienced Software Architect and Senior Software Engineer with over 15 years of expertise in PHP development, specializing in eCommerce platforms and content management systems. My technical proficiency includes building scalable, maintainable, and high-performance web applications with a strong focus on data integration, API development, and best coding practices. I am well-versed in modern web technologies, including CSS3, Bootstrap, jQuery, and HTML5, ensuring the development of dynamic and user-friendly digital solutions.
 
-I learn PHP language from 2007 and I honed my principally self-taught PHP knowledge to build extendible and maintainable object orientated code within an MVC environment. I am a quick learner, able to pick up new concepts and ideas quickly and use them effectively.
+My journey in PHP development began in 2007, where I honed my skills in object-oriented programming and MVC frameworks through self-directed learning. I quickly became adept at developing extensible, maintainable solutions and adapting to new technologies.
 
-I was employed as a PHP, CakePHP trainee developer at SmartOSC from 2009-2010. At SmartOSC I custom some module for Mantis Bugs Tracker and start research Magento 1.
+From 2009 to 2010, I started my professional career as a PHP and CakePHP trainee developer at SmartOSC, where I customized modules for Mantis Bug Tracker and initiated research on Magento 1. Following that, I joined JoomlArt, focusing on Joomla CMS development, creating custom modules, and providing technical support for Joomla-based themes and extensions.
 
-Within Joomlart I worked primarily with the Joomla CMS platform. I have been writing module to take advantage of Joomla'ss higher functionality. I also join helpdesk to answer there technical questions about modules, theme for joomla.
+Between 2011 and 2020, I served as a Technical Leader and Product Owner at BrainOS, where I led the development of core theme modules for Prestashop, OpenCart, Magento 1, and Magento 2. I managed multiple customization projects, built Magento extensions and themes, and oversaw the successful execution of numerous large-scale eCommerce solutions.
 
-From 2011-2020 I employed at BrainOs company as Technical Leader and Product Owner. At Brainos I managed and build core theme module for Prestashop, Opencart, and then Magento 1, Magento 2. I Also was working with customization project, base projects on Opencart, Magento 1, Magento 2. Help team build magento 1 extensions, magento 2 extensions, Magento 1 themes, Magento 2 themes.
+In 2020, I shifted focus to the development of an Order Management System and an automation fulfillment system for the print-on-demand (POD) industry, utilizing Node.js, React.js, and MongoDB.
 
-I have 1 year from 2020-2021 to build Order Management System and automation fulfillment system for POD industry. It was build with nodejs, reactjs, mongodb.
-
-Currently I'm freelancer, I focus on Magento 2.
-
-I hope to continue building my skills, expanding them to take in a wider scope of environments and languages, and to develop my managerial skills so I can effectively manage a large development team with multiple simultaneous projects.
+Currently, as a freelance Magento 2/Adobe Commerce/ Shopify/ SaaS specialist , I continue to refine my expertise in eCommerce solutions. I am eager to further expand my technical and managerial skills, taking on larger-scale projects and leading high-performing development teams in complex, multi-vendor environments.
 
 --------------------------------------------------------------------------------------
 
