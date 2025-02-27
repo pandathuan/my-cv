@@ -60,4 +60,4 @@ As a developer in a ecommerce company I was worked with CakePHP and join to fix 
 
 ## Additional Details
 
-If you wish to receive a PDF of my CV please [email me](mailto:m2themes@gmail.com).
+If you wish to receive a PDF of my CV please [view more](https://thuanlq.com/resume).
